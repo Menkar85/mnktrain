@@ -1,4 +1,1 @@
-# import code
-
-
-# this is some code
+print(1 + 'str')
